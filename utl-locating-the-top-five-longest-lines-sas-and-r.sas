@@ -32,15 +32,15 @@ Problem: Fnd the lengths of lines and select the top 5
                                                                                                     
 A...AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      30,389                                            
 A...AAAAAAAAAAAA                                  73,307                                            
-A...AAAAAAAAAAAAAAAAAAAAAA                      1,35,110                                            
-A...AAAAAAAAA                                   1,30,504                                            
+A...AAAAAAAAAAAAAAAAAAAAAA                       135,110                                            
+A...AAAAAAAAA                                    130,504                                            
 A...AAAAAAAAAAAAAAAAAAAAAAA                        7,983                                            
 A...AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA          60,823                                            
 A...AAAAAAAAAAAAAAAAAAAAA                         44,355                                            
 A...AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                27,902                                            
 A...AAAAA                                         46,998                                            
-A...AAAAAAAAAAAA                                1,31,422                                            
-A...AAAAAAAAAAAAAAAAA                           1,29,650                                            
+A...AAAAAAAAAAAA                                 131,422                                            
+A...AAAAAAAAAAAAAAAAA                            129,650                                            
 A...AAAAAAAAAAA                                   28,300                                            
 A...AAAAAAAAAAAAAAAAAA                             7,111                                            
 A...AAAAAAAAAAAAAAAAAAAAA                         42,502                                            
